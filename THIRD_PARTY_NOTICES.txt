@@ -1,3 +1,10 @@
+PixelFit Web trial
+
+Fonts: Archivo Black and ZCOOL QingKe HuangYou, SIL Open Font License 1.1. Full license texts are included alongside this file.
+
+Character and food images: project-generated assets, subject to the generating service terms; no independent reuse license is granted. No reference-game screenshots, branding or audio are distributed.
+
+Retained earlier assets — original notices:
 Tabler Icons — barbell SVG path
 https://github.com/tabler/tabler-icons
 https://github.com/tabler/tabler-icons/blob/main/icons/outline/barbell.svg
